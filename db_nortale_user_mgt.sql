@@ -69,12 +69,12 @@ INSERT INTO `user_code` (`id`, `user_id`, `code`, `is_expire`, `expire_time`) VA
 (10, 17, 444816, 'yes', '2022-07-21 09:47:37');
 
 INSERT INTO `users` (`user_id`, `account_name`, `user_name`, `user_email`, `password`, `level_id`, `status`, `photo_profile`, `user_owner`) VALUES
-(1, 'Josua a', 'jo', 'yasinyusuf89@gmail.com', '$2y$10$GQU.yQLnRnxs9l3KjLOF8upqzuEIxhjBOfD0RVH/UirYxnW1JAysW', 1, '1', '1658191755_c981c042fbcc4d37b25f.png', 17),
-(8, 'Josua', 'jojo', 'yasinyusuf8999@gmail.com', '$2y$10$GQU.yQLnRnxs9l3KjLOF8upqzuEIxhjBOfD0RVH/UirYxnW1JAysW', 1, '1', '1658191755_c981c042fbcc4d37b25f.png', 17),
+(1, 'Josua a', 'jo', 'yasinyusuf89@gmail.com', '$2y$10$GQU.yQLnRnxs9l3KjLOF8upqzuEIxhjBOfD0RVH/UirYxnW1JAysW', 2, '1', '1658191755_c981c042fbcc4d37b25f.png', 17),
+(8, 'Josua', 'jojo', 'yasinyusuf8999@gmail.com', '$2y$10$GQU.yQLnRnxs9l3KjLOF8upqzuEIxhjBOfD0RVH/UirYxnW1JAysW', 4, '1', '1658191755_c981c042fbcc4d37b25f.png', 17),
 (16, 'an di wal', 'andiwal', 'yasinyus@nortale.com', '$2y$10$ncA5y8i6bJxs8RGkESjgluNwWyCAI8tZNy4SMjJ/hPndD5XU/qpOu', 3, '1', '1658228775_70a2113a6d790932a3b3.png', 17),
-(17, 'admin nortale', 'admin', 'ely@nortale.com', '$2y$10$GQU.yQLnRnxs9l3KjLOF8upqzuEIxhjBOfD0RVH/UirYxnW1JAysW', 1, '1', '1658380086_40f2e895230d6e4817de.jpeg', NULL),
+(17, 'admin nortale', 'admin', 'ely@nortale.com', '$2y$10$GQU.yQLnRnxs9l3KjLOF8upqzuEIxhjBOfD0RVH/UirYxnW1JAysW', 2, '1', '1658380086_40f2e895230d6e4817de.jpeg', NULL),
 (18, 'ir ma', 'irma', 'irmafitriana48@gmail.com', '$2y$10$XSDlzKSr23ltyRAeGjVD2OZ89A3mcO/QS0F/dYSN5.9Ga4IArU0Bu', 2, '1', NULL, 17),
-(19, 'ubay', 'ubay', 'ubay@maul.com', '$2y$10$.Az6IDK6WwnFqnQR4hlwzeI4xxSVCOhauKgtopRcCMYPAqOuhpRA.', 7, '1', NULL, 17);
+(19, 'ubay', 'ubay', 'ubay@maul.com', '$2y$10$.Az6IDK6WwnFqnQR4hlwzeI4xxSVCOhauKgtopRcCMYPAqOuhpRA.', 3, '1', NULL, 17);
 
 
 
